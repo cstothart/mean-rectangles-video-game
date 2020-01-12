@@ -4,4 +4,4 @@
 
 # Description
 
-An HTML5 video game I created to study attentional guidance. This game is online and you can play it at [http://www.cary-stothart.net/files/mean-rectangles-video-game.html](http://www.cary-stothart.net/files/mean-rectangles-video-game.html).
+An HTML5 video game I created to study attentional guidance.
